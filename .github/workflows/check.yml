@@ -124,3 +124,4 @@ jobs:
           firmware-${{ matrix.model }}-${{ steps.check.outputs.latest_version_short }}.tar
           firmware-${{ matrix.model }}-${{ steps.check.outputs.latest_version_short }}.tar.sha256
           heimdall.txt
+
